@@ -1,1 +1,1 @@
-this repo contains projects about c programming language
+0x07-pointers_arrays_strings
